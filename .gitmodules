@@ -6,3 +6,7 @@
 	path = dynamic_mods
 	url = git@github.com:hbmorrison/qmk_dynamic_mods.git
 	branch = develop
+[submodule "alt_tab"]
+	path = alt_tab
+	url = git@github.com:hbmorrison/qmk_alt_tab.git
+	branch = develop
