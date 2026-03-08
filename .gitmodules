@@ -18,3 +18,7 @@
 	path = handed_mods
 	url = git@github.com:hbmorrison/qmk_handed_mods.git
 	branch = develop
+[submodule "oneshot_ignore"]
+	path = oneshot_ignore
+	url = git@github.com:hbmorrison/qmk_oneshot_ignore.git
+	branch = develop
