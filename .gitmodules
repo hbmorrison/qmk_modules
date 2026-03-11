@@ -6,10 +6,6 @@
 	path = dynamic_mods
 	url = git@github.com:hbmorrison/qmk_dynamic_mods.git
 	branch = develop
-[submodule "alt_tab"]
-	path = alt_tab
-	url = git@github.com:hbmorrison/qmk_alt_tab.git
-	branch = develop
 [submodule "custom_keys"]
 	path = custom_keys
 	url = git@github.com:hbmorrison/qmk_custom_keys.git
@@ -21,4 +17,12 @@
 [submodule "sticky_oneshot_mods"]
 	path = sticky_oneshot_mods
 	url = git@github.com:hbmorrison/qmk_sticky_oneshot_mods.git
+	branch = develop
+[submodule "windows_shortcuts"]
+	path = windows_shortcuts
+	url = git@github.com:hbmorrison/qmk_windows_shortcuts.git
+	branch = develop
+[submodule "core_keymap"]
+	path = core_keymap
+	url = git@github.com:hbmorrison/qmk_core_keymap.git
 	branch = develop
