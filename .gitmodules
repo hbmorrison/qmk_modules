@@ -14,10 +14,6 @@
 	path = handed_mods
 	url = git@github.com:hbmorrison/qmk_handed_mods.git
 	branch = develop
-[submodule "sticky_oneshot_mods"]
-	path = sticky_oneshot_mods
-	url = git@github.com:hbmorrison/qmk_sticky_oneshot_mods.git
-	branch = develop
 [submodule "windows_shortcuts"]
 	path = windows_shortcuts
 	url = git@github.com:hbmorrison/qmk_windows_shortcuts.git
