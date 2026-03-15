@@ -2,10 +2,6 @@
 	path = conditional_layers
 	url = git@github.com:hbmorrison/qmk_conditional_layers.git
 	branch = develop
-[submodule "dynamic_mods"]
-	path = dynamic_mods
-	url = git@github.com:hbmorrison/qmk_dynamic_mods.git
-	branch = develop
 [submodule "custom_keys"]
 	path = custom_keys
 	url = git@github.com:hbmorrison/qmk_custom_keys.git
